@@ -1,0 +1,19 @@
+button {
+    margin: 20px;
+    padding: 8px;
+    border-radius: 7px;
+    background-color: chartreuse;
+}
+
+:hover.btn {
+    padding: 12px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 5em;
+    font-style: italic, oblique;
+}
